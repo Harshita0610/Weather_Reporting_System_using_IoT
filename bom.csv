@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"UU1",1," Arduino Uno R3"
+"RpotP11",1,"250 kΩ Potentiometer"
+"RR1",1,"1 kΩ Resistor"
+"UTMP",1," Temperature Sensor [TMP36]"
+"RPR",1," Photoresistor"
+"ULCD",1," LCD 16 x 2"
+"RR2",1,"250 Ω Resistor"
